@@ -129,7 +129,7 @@ ${gitName}
 ${email} `
  //--------------------- Create readme markdown file using the fs.writeFile method-----------------------
 
-    fs.writeFile("readMe.md", SampleReadmeText, (err) => {
+    fs.writeFile("SampleReadMe.md", readmeText, (err) => {
         if (err) {
         console.log(err);
         }
