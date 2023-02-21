@@ -6,8 +6,7 @@
 - [How to contribute](#how-to-contribute)
 - [Testing](#testing)
 - [Licence](#licence)
-- [Github Name](#github-name)
-- [Email](#email)
+
 
 
 ## Description
